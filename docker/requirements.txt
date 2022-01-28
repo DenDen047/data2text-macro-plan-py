@@ -1,0 +1,7 @@
+six
+tqdm
+torch
+torchtext
+future
+configargparse
+nltk
